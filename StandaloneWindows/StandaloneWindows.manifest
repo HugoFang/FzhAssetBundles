@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 1566820711
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: icons/currencyicon/z_jinbi0
+      Dependencies: {}
+    Info_1:
+      Name: icons/staricon/star
+      Dependencies: {}
+    Info_2:
+      Name: icons/qualityframeicon/sequipframe2
+      Dependencies: {}
+    Info_3:
+      Name: icons/qualityframeicon/sequipframe1
+      Dependencies: {}
+    Info_4:
+      Name: icons/skillicon/js02
+      Dependencies: {}
+    Info_5:
+      Name: newbundle
+      Dependencies: {}
+    Info_6:
+      Name: icons/skillicon/js04
+      Dependencies: {}
+    Info_7:
+      Name: icons/currencyicon/z_tili0
+      Dependencies: {}
+    Info_8:
+      Name: icons/qualityframeicon/sequipframe3
+      Dependencies: {}
+    Info_9:
+      Name: icons/skillicon/js03
+      Dependencies: {}
+    Info_10:
+      Name: icons/skillicon/js01
+      Dependencies: {}
+    Info_11:
+      Name: icons/qualityframeicon/sequipframe5
+      Dependencies: {}
+    Info_12:
+      Name: icons/staricon/star_bark
+      Dependencies: {}
+    Info_13:
+      Name: icons/currencyicon/z_zuanshi0
+      Dependencies: {}
+    Info_14:
+      Name: icons/qualityframeicon/sequipframe4
+      Dependencies: {}
+    Info_15:
+      Name: newbundle1
+      Dependencies: {}
+    Info_16:
+      Name: icons/playericon/ying-xiong-tou-xiang
+      Dependencies: {}
+    Info_17:
+      Name: views/startview
+      Dependencies:
+        Dependency_0: newbundle
+    Info_18:
+      Name: tips/commonnobuttontip
+      Dependencies:
+        Dependency_0: newbundle
+    Info_19:
+      Name: views/mainview
+      Dependencies:
+        Dependency_0: icons/currencyicon/z_jinbi0
+        Dependency_1: newbundle
+        Dependency_2: icons/currencyicon/z_zuanshi0
+        Dependency_3: icons/playericon/ying-xiong-tou-xiang
+    Info_20:
+      Name: views/guankaview
+      Dependencies:
+        Dependency_0: icons/staricon/star
+    Info_21:
+      Name: views/loadingview
+      Dependencies:
+        Dependency_0: newbundle1
+    Info_22:
+      Name: heros/juggment
+      Dependencies: {}
+    Info_23:
+      Name: tips/commontwobuttontip
+      Dependencies:
+        Dependency_0: newbundle
+    Info_24:
+      Name: views/rescheckview
+      Dependencies:
+        Dependency_0: newbundle1
+    Info_25:
+      Name: tips/nametip
+      Dependencies:
+        Dependency_0: newbundle
+    Info_26:
+      Name: tips/commononebuttontip
+      Dependencies:
+        Dependency_0: newbundle

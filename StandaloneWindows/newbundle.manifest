@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3739123906
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d942c339b432b09184aafa06c49a111c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/RawRes/UI/Common/hei-di.png
+- Assets/RawRes/UI/Common/pu-tong-hong-se-an-niu.png
+Dependencies: []

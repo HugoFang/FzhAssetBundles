@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2311558783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3ad3115db525222094659a70af63de7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21566c3250ac63f515afe8cfe63bce38
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cca294cb88bcef846ad69aa7e26a17f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2bfc393ba3e9ba4886cecff90d9a611, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6808a0d129d198c459c70be6483acfd9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/BuildRes/Views/Loading.prefab
+Dependencies:
+- D:/FZHGame/FZHClient/AssetBundles/StandaloneWindows/newbundle1

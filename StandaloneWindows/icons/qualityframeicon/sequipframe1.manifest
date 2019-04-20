@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2006205429
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 081579afd250e642b8ac9b5313a5f35b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/BuildRes/Icons/QualityFrameIcon/SEquipFrame1.png
+Dependencies: []

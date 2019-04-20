@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3224692013
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7ed4abe71b1c46b737c974654d2c2a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/BuildRes/Icons/SkillIcon/js03.png
+Dependencies: []
